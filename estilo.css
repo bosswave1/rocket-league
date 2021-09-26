@@ -1,0 +1,195 @@
+
+
+img {
+	object-fit: cover;
+	object-position: 100% 40%;
+}
+
+.imagen-top {
+	text-align: center;
+}
+
+
+
+h1{
+	color: rgb(87, 212, 255);
+	background-color: rgba(120, 50, 120, .8);
+	text-align: center;
+	border-style: dashed;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: black;
+}
+
+body {
+	background-image: url(https://www.desktophut.com/wp-content/uploads/2018/10/H7UrQSDn7EZQyQAzbMuy.jpg.webp);
+	background-size: contain;
+}
+
+.h1-titulo {
+	position: absolute;
+	top: 20%;
+	left: 50%;
+	transform: translate(-50% , -50%);
+}
+
+
+.cuerpo {
+	position: absolute;
+	top: 45%;
+	left: 15%;
+	background-color: rgba(3, 4, 94, .7);
+
+}
+
+.tryhard-texto {
+	position: absolute;
+	top: 85%;
+	left: 50%;
+	transform: translate(-50% , -50%);
+}
+
+h2{
+	color: black;
+	background-color: black;
+	text-align: center;
+	width: 500px;
+	-webkit-text-stroke-width: 1.6px;
+	-webkit-text-stroke-color: white;
+}
+
+.texto2 {
+	background-color: rgba(3, 4, 94, .7);
+}
+
+.texto3 {
+	background-color: rgba(3, 4, 94, .7);
+}
+.texto4 {
+	background-color: rgba(3, 4, 94, .7);
+}
+
+.octane1 {
+	position: absolute;
+	top: 140%;
+	left: 50%;
+	transform: translate(-50% , -50%);
+}
+
+.fennec1 {
+	position: absolute;
+	top: 290%;
+	left: 50%;
+	transform: translate(-50% , -50%);
+}
+
+.dominus1 {
+	position: absolute;
+	top: 440%;
+	left: 50%;
+	transform: translate(-50% , -50%);
+}
+
+.video1 {
+	position: absolute;
+	top: 215%;
+	left: 50%;
+	transform: translate(-50% , -50%);
+}
+
+.video2 {
+	position: absolute;
+	top: 365%;
+	left: 50%;
+	transform: translate(-50% , -50%);
+}
+
+.video3 {
+	position: absolute;
+	top: 515%;
+	left: 50%;
+	transform: translate(-50% , -50%);
+}
+
+.boxmodel {
+	text-align: justify;
+	position: absolute;
+	top: 325%;
+	left: 50%;
+	transform: translate(-50% , -50%);
+	font-size: 35px;
+	color: lavender;
+	padding: 0px 30px 32px 30px;
+	background-color: rgba(3, 4, 94, .7);
+	width: 1250px;
+	height: 180px;
+}
+
+.texto6 {
+	text-align: justify;
+	position: absolute;
+	top: 405%;
+	left: 50%;
+	transform: translate(-50% , -50%);
+	color: ghostwhite;
+	font-size: 35px;
+	padding: 0px 30px 32px 30px;
+	background-color: rgba(3, 4, 94, .7);
+	width: 1250px;
+	height: 180px;
+}
+
+.texto7 {
+	text-align: justify;
+	position: absolute;
+	top: 475%;
+	left: 50%;
+	transform: translate(-50% , -50%);
+	color: ghostwhite;
+	font-size: 35px;
+	padding: 0px 30px 32px 30px;
+	background-color: rgba(3, 4, 94, .7);
+	width: 1250px;
+	height: 180px;
+}
+
+.texto8 {
+	text-align: justify;
+	position: absolute;
+	top: 555%;
+	left: 50%;
+	transform: translate(-50% , -50%);
+	color: ghostwhite;
+	font-size: 35px;
+	padding: 0px 30px 0px 30px;
+	background-color: rgba(3, 4, 94, .7);
+	width: 1250px;
+	height: 290px;
+}
+
+#Form {
+	background-color: rgba(3, 4, 94, .7);
+	padding: 30px;
+	color: ghostwhite;
+	font-size: 25px;
+	position: absolute;
+	top: 575%;
+	left: 41%;
+	text-align: left;
+}
+
+.space {
+	text-align: justify;
+	position: absolute;
+	top: 610%;
+}
+
+.enlace {
+	padding: 15px;
+	background-color: ghostwhite;
+	position: absolute;
+	left: 50%;
+	top: 608%;
+	transform: translate(-50%, -50%);
+	border-radius: 10px;
+
+}
